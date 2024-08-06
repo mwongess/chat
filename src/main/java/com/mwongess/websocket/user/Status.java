@@ -1,4 +1,4 @@
-package com.alibou.websocket.user;
+package com.mwongess.websocket.user;
 
 public enum Status {
     ONLINE, OFFLINE
